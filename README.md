@@ -1,6 +1,9 @@
 ### Hi there 👋
-
+<!--
 <a href="https://app.daily.dev/toan_devdaily"><img src="https://github.com/toancqb/toancqb/blob/master/devcard.png" width="400" alt="Toan's Dev Card"/></a>
+-->
+
+<a href="https://app.daily.dev/toan_devdaily"><img src="https://api.daily.dev/devcards/6d476720b5f7437691ca52aa3d724724.png?r=lnv" width="400" alt="Toan's Dev Card"/></a>
 
 <!--
 **toancqb/toancqb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
